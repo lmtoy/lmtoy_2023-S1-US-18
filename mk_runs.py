@@ -30,6 +30,6 @@ pars1['HZ4']   = ""
 
 #        common parameters per source on subsequent runs (run1b, run2b)
 pars2 = {}
-pars2['HZ4']   = ""
+pars2['HZ4']   = "srdp=1 admit=0"
 
 runs.mk_runs(project, on, pars1, pars2)
