@@ -21,7 +21,8 @@ project="2023-S1-US-18"
 
 #        obsnums per source (make it negative if not added to the final combination)
 on = {}
-on['HZ4'] = [ 104090, 104091, 104092, 104094, 104095, 104096]
+on['HZ4'] = [ 104090, 104091, 104092, 104094, 104095, 104096,
+              104198, 104199, 104200, 104202, 104203, 104204]
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
