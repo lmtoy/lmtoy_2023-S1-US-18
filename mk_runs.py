@@ -26,7 +26,7 @@ on['HZ4'] = [ 104090, 104091, 104092, 104094, 104095, 104096,
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
-pars1['HZ4']   = ""
+pars1['HZ4']   = "bandzoom=0 rthr=0.01 cthr=0.01"
 
 #        common parameters per source on subsequent runs (run1b, run2b)
 pars2 = {}
