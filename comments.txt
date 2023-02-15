@@ -6,7 +6,7 @@
 104096 .
 #
 
-104916 noisy
+104916 noisy - bad night
 104917 noisy
 104920 badlags, noisy
 104921 noisy
@@ -17,6 +17,6 @@
 104935 noisy
 104937 many bad lags
 104938 noisy
-104939 noisy
+104939 noisy - end of bad night
 
 
