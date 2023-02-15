@@ -1,10 +1,11 @@
-104090 .
+104090 recommended remove 0/2, 3/3, 3/4; 1/4 could be removed but this would only leave one board covering 105-110 GHz
 104091 .
 104092 .
 104094 .
 104095 .
 104096 .
 #
+104194 recommended remove 0/2, 1/2, 1/0, 2/5, 3/3, 3/4;
 
 104916 noisy - bad night
 104917 noisy
