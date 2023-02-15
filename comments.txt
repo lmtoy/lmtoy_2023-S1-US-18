@@ -4,3 +4,19 @@
 104094 .
 104095 .
 104096 .
+#
+
+104916 noisy
+104917 noisy
+104920 badlags, noisy
+104921 noisy
+104924 noisy
+104925 noisy
+104930 noisy
+104931 noisy
+104935 noisy
+104937 many bad lags
+104938 noisy
+104939 noisy
+
+
