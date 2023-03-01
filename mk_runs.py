@@ -63,4 +63,5 @@ pars2["HZ2"]   = "srdp=1 admit=0"
 pars2["HZ3"]   = "srdp=1 admit=0"
 pars2['HZ4']   = "srdp=1 admit=0"
 
-runs.mk_runs(project, on, pars1, pars2)
+if __name__ == '__main__':    
+    runs.mk_runs(project, on, pars1, pars2)
