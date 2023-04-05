@@ -1,3 +1,10 @@
 # 2023-S1-US-18
 
-good detection.
+HZ1 starting to see detection
+
+HZ2 possible detection
+
+HZ3 no detection
+
+HZ4 good detection
+
