@@ -7,15 +7,7 @@
 
 import os
 import sys
-
-# in prep of the new lmtoy module
-try:
-    lmtoy = os.environ['LMTOY']
-    sys.path.append(lmtoy)
-    from lmtoy import runs
-except:
-    print("No LMTOY with runs.py")
-    sys.exit(0)
+from lmtoy import runs
 
 project="2023-S1-US-18"
 
