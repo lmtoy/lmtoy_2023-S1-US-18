@@ -1,4 +1,4 @@
-104090_104671 removed badcb #badcb=0/2,3/3,3/4
+104090_104671 removed badcb for HZ4  # badcb=0/2,3/3,3/4
 
 104916 noisy - bad night
 104917 noisy
