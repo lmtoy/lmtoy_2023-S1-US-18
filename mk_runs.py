@@ -51,10 +51,10 @@ on['HZ4']  = [ 104090, 104091, 104092, 104094, 104095, 104096,
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
-pars1['HZ1']   = "bandzoom=3 badcb=2/3,3/3"
-pars1["HZ2"]   = "bandzoom=2 badcb=0/2,1/2,3/3,3/4" # really only want to remove 2/3 from some
-pars1["HZ3"]   = "bandzoom=2"
-pars1['HZ4']   = "bandzoom=0 badcb=3/0" # badcb=0/2,3/3,3/4"
+pars1['HZ1']   = "speczoom=94.52,3 badcb=0/2,2/3,3/3 rthr=0.015 cthr=0.015" # removing 3/4 didn't seem to do anything
+pars1["HZ2"]   = "speczoom=91.68,3 badcb=2/3,3/3 rthr=0.015 cthr=0.015" 
+pars1["HZ3"]   = "speczoom=89.26,3 badcb=2/3,3/3 rthr=0.015 cthr=0.015"
+pars1['HZ4']   = "speczoom=78.37,3 badcb=3/0,1/4,2/3,3/3 rthr=0.015 cthr=0.015" 
 
 #        common parameters per source on subsequent runs (run1b, run2b)
 pars2 = {}
