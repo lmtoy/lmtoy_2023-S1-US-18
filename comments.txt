@@ -3,27 +3,27 @@
 105062_105086 HZ2   removed badcb, increased cthr and rthr # badcb=2/3,3/3 rthr=0.015 cthr=0.015
 104675_104740 HZ1 - removed badcb, increased cthr and rtht # badcb=0/2,2/3,3/3 rthr=0.015 cthr=0.015
 
-104916 noisy - bad night
-104917 noisy
-104920 badlags, noisy
-104921 noisy
-104924 noisy
-104925 noisy
-104926 noisy
-104929 noisy
-104930 noisy
-104930 noisy
-104931 noisy
-104933 bad night
-104934 noisy
-104935 noisy
-104937 many bad lags
-104938 noisy
-104939 noisy - end of bad night
+104916 BAD: noisy - bad night
+104917 BAD: noisy
+104920 BAD: badlags, noisy
+104921 BAD: noisy
+104924 BAD: noisy
+104925 BAD: noisy
+104926 BAD: noisy
+104929 BAD: noisy
+104930 BAD: noisy
+104930 BAD: noisy
+104931 BAD: noisy
+104933 BAD: bad night
+104934 BAD: noisy
+104935 BAD: noisy
+104937 BAD: many bad lags
+104938 BAD: noisy
+104939 BAD: noisy - end of bad night
 
-104735 noisy tsys
-105070 bad chassis 3 tsys
-105248 bad chassis 3 tsys
-105255 bad chassis 3 tsys
-105439 bad chassis 3 tsys
-105440 bad chassis 3 tsys
+104735 BAD: noisy tsys
+105070 BAD: bad chassis 3 tsys
+105248 BAD: bad chassis 3 tsys
+105255 BAD: bad chassis 3 tsys
+105439 BAD: bad chassis 3 tsys
+105440 BAD: bad chassis 3 tsys
