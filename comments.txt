@@ -24,8 +24,8 @@
 105439 BAD: bad chassis 3 tsys
 105440 BAD: bad chassis 3 tsys
 
-104090_104671 HZ4 - removed badcb, increased cthr and rthr  # badcb=3/0,1/4,2/3,3/3 rthr=0.015 cthr=0.015 
-105242_105459 HZ3 - removed badcb, increased sthr and rthr  # badcb=2/3,3/3 rthr=0.015 cthr=0.015
-105062_105086 HZ2 - removed badcb, increased cthr and rthr  # badcb=2/3,3/3 rthr=0.015 cthr=0.015
-104675_104740 HZ1 - removed badcb, increased cthr and rtht  # badcb=0/2,2/3,3/3 rthr=0.015 cthr=0.015
+104090_104671 HZ4 good detection at ~78.4 GHz
+105242_105459 HZ3 no detection
+105062_105086 HZ2 possible detection at ~91.7 GHz
+104675_104740 HZ1 possible detection at ~94.5 GHz
 
